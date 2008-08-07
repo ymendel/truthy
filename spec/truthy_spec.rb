@@ -6,4 +6,8 @@ describe 'truthiness' do
     false.should_not be_truthy
   end
   
+  specify 'nil should not be truthy' do
+    nil.should_not be_truthy
+  end
+  
 end

@@ -6,3 +6,9 @@ class FalseClass
     false
   end
 end
+
+class NilClass
+  def truthy?
+    false
+  end
+end
