@@ -12,3 +12,9 @@ class NilClass
     false
   end
 end
+
+class Object
+  def truthy?
+    true
+  end
+end
