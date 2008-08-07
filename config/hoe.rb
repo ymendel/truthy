@@ -2,9 +2,9 @@ require 'truthy/version'
 
 AUTHOR = 'Yossef Mendelssohn'  # can also be an array of Authors
 EMAIL = "ymendel@pobox.com"
-DESCRIPTION = "description of gem"
+DESCRIPTION = "Easily get truthiness values of Ruby objects"
 GEM_NAME = 'truthy' # what ppl will type to install your gem
-RUBYFORGE_PROJECT = 'truthy' # The unix name for your project
+RUBYFORGE_PROJECT = 'yomendel' # The unix name for your project
 HOMEPATH = "http://#{RUBYFORGE_PROJECT}.rubyforge.org"
 DOWNLOAD_PATH = "http://rubyforge.org/projects/#{RUBYFORGE_PROJECT}"
 EXTRA_DEPENDENCIES = [
